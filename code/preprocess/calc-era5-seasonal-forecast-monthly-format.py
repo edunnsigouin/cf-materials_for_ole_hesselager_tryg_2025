@@ -6,7 +6,7 @@ import numpy          as np
 import xarray         as xr
 import pandas         as pd
 from dask.diagnostics import ProgressBar
-from investor         import config,misc
+from materials_for_ole_hesselager_tryg_2025         import config,misc
 
 # INPUT -----------------------------------------------
 variable         = 'msl'

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+materials_for_ole_hesselager_tryg_2025/config.py
+materials_for_ole_hesselager_tryg_2025/misc.py
+materials_for_ole_hesselager_tryg_2025.egg-info/PKG-INFO
+materials_for_ole_hesselager_tryg_2025.egg-info/SOURCES.txt
+materials_for_ole_hesselager_tryg_2025.egg-info/dependency_links.txt
+materials_for_ole_hesselager_tryg_2025.egg-info/requires.txt
+materials_for_ole_hesselager_tryg_2025.egg-info/top_level.txt

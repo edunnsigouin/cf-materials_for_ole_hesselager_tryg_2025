@@ -6,7 +6,7 @@ Options for lead month, model, aggregation (month, season, quarter).
 import numpy            as np
 import xarray           as xr
 import pandas           as pd
-from investor           import config, misc
+from materials_for_ole_hesselager_tryg_2025           import config, misc
 from matplotlib         import pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.colors  import to_rgba

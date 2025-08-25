@@ -9,7 +9,7 @@ import numpy as np
 import xarray as xr
 import pandas as pd
 import cdsapi
-from investor import config, misc
+from materials_for_ole_hesselager_tryg_2025 import config, misc
 
 # input ----------------------------------------------------------
 init_years     = np.arange(2010, 2025, 1)

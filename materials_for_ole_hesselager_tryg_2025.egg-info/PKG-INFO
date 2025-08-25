@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: materials_for_ole_hesselager_tryg_2025
+Version: 0.0.1
+Author: Etienne Dunn-Sigouin
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: xarray
+Requires-Dist: scipy

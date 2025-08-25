@@ -3,7 +3,7 @@ Materials for collaborative project with tryg denmark about seasonal prediction 
 The project is organized as an installable conda package. To get setup, first pull the directory from github to your local machine:
 
 ``` bash
-$ git clone https://github.com/edunnsigouin/cf-trygdanmarkstormpred
+$ git clone https://github.com/edunnsigouin/cf-materials_for_ole_hesselager_tryg_2025
 ```
 
 Then install the conda environment:

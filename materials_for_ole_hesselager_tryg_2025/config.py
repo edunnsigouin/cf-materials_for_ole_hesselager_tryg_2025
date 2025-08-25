@@ -1,9 +1,9 @@
 """
-hard coded paths in cf-investor
+hard coded paths in materials_for_ole_hesselager_tryg_2025
 """
 
 cf_space             = "/nird/projects/NS9873K/"
-proj                 = "/nird/home/edu061/cf-investor/"
+proj                 = "/nird/home/edu061/cf-materials_for_ole_hesselager_tryg_2025/"
 data_interim         = proj + "data/interim/"
 fig                  = proj + "fig/"
 
@@ -14,7 +14,7 @@ raw_noaa             = raw + 'noaa/'
 raw_tryg             = raw + 'tryg/'
 raw_skadepool        = raw + 'skadepool/'
 
-processed                       = cf_space + "etdu/processed/cf-investor/"
+processed                       = cf_space + "etdu/processed/cf-claim_prediction_seasonal/"
 processed_forecast_seasonal     = processed + 'seasonal_forecast/seasonal/'
 processed_forecast_monthly      = processed + 'seasonal_forecast/monthly/'
 processed_era5_monthly          = processed + 'era5/monthly/'
